@@ -1,0 +1,46 @@
+.Header { 
+    text-align: center;
+    background: '#ebebeb';
+    display: block;
+    position: absolute;
+
+    /* align-self: center;
+    align-content: center; */
+    /* margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    margin-left: 10px; */
+    
+}
+
+.wrapper {
+    margin: 10%;
+    width: 95px;
+    padding: 20px;
+    background:#ebebeb;
+    clear: both;
+
+}
+
+/* .wrapper{ 
+        display: block;
+
+}
+
+
+.body {
+
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+
+
+.h1{
+    color: #777;
+    background: #ebebeb;
+ */
+
+/* } */
